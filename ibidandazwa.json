@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "izina": "umunyu",
+        "igiciro": 2000,
+        "igitigiri": 14
+    },
+    {
+        "id": 2,
+        "izina": "umuceri",
+        "igiciro": 5000,
+        "igitigiri": 8
+    },
+    {
+        "id": 3,
+        "izina": "ibiharage",
+        "igiciro": 4000,
+        "igitigiri": 16
+    }
+]
